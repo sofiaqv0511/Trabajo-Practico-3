@@ -1,5 +1,7 @@
 # Trabajo Práctico 3 - Aprendizaje No Supervisado
 
+## Realizado por: Sofía Quiroz Valencia
+
 ## 1. Descripción del proyecto
 
 Este proyecto desarrolla un análisis de aprendizaje no supervisado utilizando el conjunto de datos **Wholesale Customers**, disponible en Kaggle. La base contiene información de 440 clientes mayoristas y sus gastos anuales en diferentes categorías de productos.
